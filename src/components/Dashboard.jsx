@@ -44,4 +44,5 @@ const Container = styled.div`
                             "sidebar card4 card5 card6";
     grid-gap: 1rem;
     padding: 2rem;
+    border-radius: 0.5rem;
 `;
