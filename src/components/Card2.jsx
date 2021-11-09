@@ -9,5 +9,6 @@ export default function Card2() {
 }
 
 const Container = styled.div`
-    border: 1px solid brey;
+    grid-area: card2;
+    background: linear-gradient(to top right, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
 `;

@@ -41,5 +41,7 @@ const Container = styled.div`
                             "sidebar header header header"
                             "sidebar card1 card2 card3"
                             "sidebar graph graph debitcard"
-                            "sidebar card4 card5 card6"
+                            "sidebar card4 card5 card6";
+    grid-gap: 1rem;
+    padding: 2rem;
 `;

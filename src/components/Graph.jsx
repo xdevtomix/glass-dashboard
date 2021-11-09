@@ -9,5 +9,6 @@ export default function Graph() {
 }
 
 const Container = styled.div`
-    border: 1px solid brey;
+    grid-area: graph;
+    background: linear-gradient(to top right, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
 `;
