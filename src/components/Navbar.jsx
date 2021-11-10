@@ -12,8 +12,8 @@ export default function Navbar() {
                 <i className='bx bx-search'></i>
             </Search>
             <Icons>
-                <i class='bx bx-envelope'></i>
-                <i class='bx bx-bell'></i>
+                <i className='bx bx-envelope'></i>
+                <i className='bx bx-bell'></i>
                 <img src="https://images.pexels.com/photos/7890212/pexels-photo-7890212.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="woman" />
                 <div>
                     <h4>Irene Smith</h4>
