@@ -11,12 +11,17 @@ export default function Debitcard() {
 const Container = styled.div`
     grid-area: debitcard;
     background: linear-gradient(to top right, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
-    padding: 2rem;
     border-radius: 0.5rem;
+    overflow: hidden;
 
     img {
         width: 100%;
         height: 100%;
         object-fit: cover;
+        transition: 1000ms;
+
+        :hover {
+            transform: scale(2);
+        }
     }
 `;
