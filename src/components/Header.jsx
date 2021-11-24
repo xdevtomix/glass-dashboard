@@ -3,7 +3,7 @@ import styled from "styled-components";
 export default function Header() {
     return (
         <Container data-component="header">
-            <h2>Hello Mr Bombastic</h2>
+            <h2>Hello Mr Bombastic!</h2>
             <h1>Overview</h1>
         </Container>
     );
